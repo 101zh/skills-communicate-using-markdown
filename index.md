@@ -7,3 +7,8 @@
 int a = b.method();
 // ".method()" is a method of b object that returns an integer
 ```
+## Learning Markdown Pt. 3
+- [x] Create "Learning Markdown Pt.3"
+- [ ] Sleep
+- [ ] Complete "Communicate using Markdown"
+
